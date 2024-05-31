@@ -1,1 +1,1 @@
-bucket_name = "mybday"
+bucket_name = "bucket-name"

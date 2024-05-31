@@ -1,4 +1,4 @@
-name: Deploy on AWS
+name: Create public S3 bucket form static content
 
 on:
   push:
