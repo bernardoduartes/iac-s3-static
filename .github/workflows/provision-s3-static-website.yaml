@@ -20,5 +20,5 @@ jobs:
 
       - name: Run Terraform
         run: |
-          terratorm init
+          terraform init
           terraform apply --auto-approve
